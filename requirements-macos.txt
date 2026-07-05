@@ -1,0 +1,9 @@
+torch
+torchaudio
+numpy
+scipy
+scikit-learn
+matplotlib
+PyQt6
+sounddevice
+pyannote.audio
